@@ -13,8 +13,8 @@ w_{new} = w_{old} - \eta \cdot \frac{\partial L}{\partial w_{old}}
 $$
 
 where  
-- \( \eta \) is the learning rate 🎯,  
-- \( \frac{\partial L}{\partial w_{old}} \) is the gradient of the loss with respect to the old weight.
+- $ \eta $ is the learning rate 🎯,  
+- $ \frac{\partial L}{\partial w_{old}} $ is the gradient of the loss with respect to the old weight.
 
 ---
 
